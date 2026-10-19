@@ -6,4 +6,5 @@ $RECYCLE.BIN/
 *.tmp
 *.bak
 *.lnk
- 
+README.md
+sync.ps1
