@@ -1,0 +1,26 @@
+=== vault (ObsidianNote1) 全历史对象搜索 ===
+[vault无] 57aa524a3d965fd9ff53fd4a3b91ad871e3c2a5385d90d54df20d88f6fd0b9b1
+[vault无] 78750ef30ff00cb4ef4afe95fb5f7e9ff0c6083a376f775085d52332e0c8a261
+[vault无] 823eefe2c75654be16c9022b409d8f46e34898689b00c99b6cb3fb326c59c17e
+[vault无] 53f0c5363186380a9cdadd0dbd47a013cf9f34a956129fa12246703c5a8edad1
+[vault无] bd1ab5a65d7594a184b16f05c6ce0685dea533e2e3cfea1e9fe602dbc6a4fa55
+[vault无] a7c1bc745d5547338d89133db3906bcf91cd865f9b41b89fd9afbb13712c8ef3
+[vault无] f1f718c724d8949a6f6909b00f1b61b84efbf24a3ecfd2043c6e4fa9eb30b49d
+[vault无] 5d1d151baac1ea76c8814e05110db22409601fb59df1dc9cbb64c54c5d3d1a54
+
+=== bed (pages) 全历史对象搜索 ===
+[bed无] 57aa524a3d965fd9ff53fd4a3b91ad871e3c2a5385d90d54df20d88f6fd0b9b1
+[bed无] 78750ef30ff00cb4ef4afe95fb5f7e9ff0c6083a376f775085d52332e0c8a261
+[bed无] 823eefe2c75654be16c9022b409d8f46e34898689b00c99b6cb3fb326c59c17e
+[bed无] 53f0c5363186380a9cdadd0dbd47a013cf9f34a956129fa12246703c5a8edad1
+[bed无] bd1ab5a65d7594a184b16f05c6ce0685dea533e2e3cfea1e9fe602dbc6a4fa55
+[bed无] a7c1bc745d5547338d89133db3906bcf91cd865f9b41b89fd9afbb13712c8ef3
+[bed无] f1f718c724d8949a6f6909b00f1b61b84efbf24a3ecfd2043c6e4fa9eb30b49d
+[bed无] 5d1d151baac1ea76c8814e05110db22409601fb59df1dc9cbb64c54c5d3d1a54
+
+=== vault 中 汇编语言与接口技术 的提交历史 ===
+a9ce36d add 鎿嶄綔绯荤粺test3
+M	姹囩紪璇█涓庢帴鍙ｆ妧鏈?test1.md
+2384314 add 姹囩紪test1銆乼est2
+A	姹囩紪璇█涓庢帴鍙ｆ妧鏈?test1.md
+A	姹囩紪璇█涓庢帴鍙ｆ妧鏈?test2.md
