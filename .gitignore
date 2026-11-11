@@ -8,3 +8,7 @@ $RECYCLE.BIN/
 *.lnk
 README.md
 sync.ps1
+# 忽略所有点开头的临时文件（诊断脚本等），保留必要的两个
+.*
+!.gitignore
+!.nojekyll
